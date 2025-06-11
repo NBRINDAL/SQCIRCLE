@@ -19,3 +19,8 @@ The design was originally drafted in Rhino and tested using symbolic Python. The
    ```bash
    git clone https://github.com/NBRINDAL/SQCIRCLE.git
    cd SQCIRCLE
+## 🔄 Construction Animation
+
+This animated sequence shows the live progression of the geometric method. By layering transformations, proportions, and radial forms, it illustrates how the system dynamically aligns square and circle areas.
+
+![Geometric Construction Animation](geometric_construction_animation.gif)
