@@ -24,3 +24,6 @@ The design was originally drafted in Rhino and tested using symbolic Python. The
 This animated sequence shows the live progression of the geometric method. By layering transformations, proportions, and radial forms, it illustrates how the system dynamically aligns square and circle areas.
 
 ![Geometric Construction Animation](geometric_construction_animation.gif)
+
+
+Developed by Nick B. Rindal — Original geometric logic drafted in Rhino 3d, scripted and symbolically solved with Python.
